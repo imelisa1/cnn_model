@@ -11,7 +11,7 @@ Requirements :
 * Matplotlib : Used for plotting and visualization.
 
 <div>
-  <img src="https://github.com/imelisa1/cnn_model/blob/main/screenshots/cat.png" title="Cat alt="Cat" width="120" height="150"/>&nbsp;
-  <img src="https://github.com/imelisa1/cnn_model/blob/main/screenshots/automobile.png" title="Automobile" alt="Automobile" width="120" height="150"/>&nbsp;
-  <img src="https://github.com/imelisa1/cnn_model/blob/main/screenshots/bird.png" title="Bird" alt="Bird" width="120" height="150"/>&nbsp;
+  <img src="https://github.com/imelisa1/cnn_model/blob/main/screenshots/cat.png" title="Cat alt="Cat" width="260" height="300"/>&nbsp;
+  <img src="https://github.com/imelisa1/cnn_model/blob/main/screenshots/automobile.png" title="Automobile" alt="Automobile" width="260" height="300"/>&nbsp;
+  <img src="https://github.com/imelisa1/cnn_model/blob/main/screenshots/bird.png" title="Bird" alt="Bird" width="260" height="300"/>&nbsp;
 </div>
